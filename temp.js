@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         hello world
 // @namespace    test@lanshu
-// @version      0.1
+// @version      0.2
 // @description  new script
 // @author       lanshu
 // @match        *
@@ -12,5 +12,5 @@
 
 (function() {
 
-    console.log("hello world");
+    console.log("hello new world");
 })();
